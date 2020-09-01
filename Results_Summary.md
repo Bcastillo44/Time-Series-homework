@@ -4,7 +4,7 @@
 
 ### Based on your time series analysis, would you buy the yen now?
 
-- In the very near short term the returns seem to be increasing for the next 5 days so it might make sense to make a short term investment
+- The 5 Day Forecast may be a good investment
 
 ### Is the risk of the yen expected to increase or decrease?
 
