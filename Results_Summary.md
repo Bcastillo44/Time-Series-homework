@@ -18,7 +18,7 @@
 
 ![GARCH Model Summary](images/garch-model-summary.png) -->
 
-## Time-Series Forecasting
+## Linear Regression Forecasting
 
 ### Does this model perform better or worse on out-of-sample data compared to in-sample data?
 
