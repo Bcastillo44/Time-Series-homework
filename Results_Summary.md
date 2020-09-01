@@ -8,7 +8,7 @@
 
 ### Is the risk of the yen expected to increase or decrease?
 
-- The risk of the yen is expected to increase in the in the short-term
+- The risk of the yen is expected to increase in the short-term
 
 ### Based on the model evaluation, would you feel confident in using these models for trading?
 
