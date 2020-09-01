@@ -14,9 +14,9 @@
 
 - In the model summaries I would not feel confident in using these models for trading
 
-[ARIMA Model Summary](images/ARIMA_Model_Results.png)
+![ARIMA Model Summary](images/ARIMA_Model_Results.png)
 
-[GARCH Model Summary](images/GARCH_Model_Results.png)
+![GARCH Model Summary](images/GARCH_Model_Results.png)
 
 ## Linear Regression Forecasting
 
