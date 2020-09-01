@@ -23,5 +23,6 @@
 ### Does this model perform better or worse on out-of-sample data compared to in-sample data?
 
 - The model works better on out of sample data. Lower the MSE or RMSE better is our model fit or estimator of prediciton. Below are the RMSE for both models:
-  - Out-of-Sample Root Mean Squared Error (RMSE): 0.4152158107228894
-  - In-sample Root Mean Squared Error (RMSE): 0.5661029233587197
+
+  - Out-of-Sample Root Mean Squared Error (RMSE): 0.41521675083603804
+  - In-sample Root Mean Squared Error (RMSE): 0.5966748205888165
