@@ -13,14 +13,10 @@
 ### Based on the model evaluation, would you feel confident in using these models for trading?
 
 - In the model summaries I would not feel confident in using these models for trading
-<!-- 
-![ARIMA Model Summary](images/arima-model-summary.png)
 
-![GARCH Model Summary](images/garch-model-summary.png) -->
+[ARIMA Model Summary](images/ARIMA_Model_Results.png)
 
-[ARIMA Model Summary](images/ARIMA_Model_Results)
-
-[GARCH Model Summary](images/GARCH_Model_Results)
+[GARCH Model Summary](images/GARCH_Model_Results.png)
 
 ## Linear Regression Forecasting
 
