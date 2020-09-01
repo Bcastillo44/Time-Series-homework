@@ -4,11 +4,11 @@
 
 ### Based on your time series analysis, would you buy the yen now?
 
-- The 5 Day Forecast may be a good investment
+- According to the 5 Day Forecast, the yen may be a good investment in the short-term
 
 ### Is the risk of the yen expected to increase or decrease?
 
-- The risk of the yen is expected to increasee in the in future
+- The risk of the yen is expected to increase in the in the short-term
 
 ### Based on the model evaluation, would you feel confident in using these models for trading?
 
@@ -17,6 +17,10 @@
 ![ARIMA Model Summary](images/arima-model-summary.png)
 
 ![GARCH Model Summary](images/garch-model-summary.png) -->
+
+[ARIMA Model Summary](images/ARIMA_Model_Results)
+
+[GARCH Model Summary](images/GARCH_Model_Results)
 
 ## Linear Regression Forecasting
 
