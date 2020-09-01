@@ -16,6 +16,8 @@
 
 ![ARIMA Model Summary](Images/ARIMA_Model_Results.png)
 
+---
+
 ![GARCH Model Summary](Images/GARCH_Model_Results.png)
 
 ## Linear Regression Forecasting
