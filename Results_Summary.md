@@ -26,7 +26,6 @@
 
 The In-Sample performed better than the Out-of-Sample model. The higher the RMSE, the better the model.
 
-Below are the RMSE for both models:
 
   - Out-of-Sample Root Mean Squared Error (RMSE): 0.41521675083603804
   
